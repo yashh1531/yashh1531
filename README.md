@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="yashh1531's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <img width="1317" height="728" alt="dark_mode" src="https://github.com/user-attachments/assets/e6c4a313-a0a4-4c08-a555-b344dcfdaceb" /><img width="1317" height="728" alt="light_mode" src="https://github.com/user-attachments/assets/108d3547-d976-42a4-97d8-b0974b162274" />
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1317" height="728" viewBox="0 0 1317 728" role="img" aria-label="ASCII GitHub profile card for yashh1531">
